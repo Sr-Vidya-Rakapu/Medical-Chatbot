@@ -1,4 +1,7 @@
-# Medical-Chatbot
+# Harnessing Chatbot Technology for Personalized Healthcare Guidance
+
+[image](https://github.com/user-attachments/assets/947ab8ec-c3a5-4637-80e1-bc30b61df617)
+
 Developed a personalized healthcare chatbot using AI &amp; ML, providing tailored guidance &amp; support. Utilizes NLP for accurate responses, improving health outcomes &amp; patient engagement.
 Harnessing Chatbot Technology for Personalized Healthcare Guidance
 
